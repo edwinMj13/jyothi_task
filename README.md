@@ -10,11 +10,7 @@ A Flutter Project which shows product list and products can be added to cart for
 
 Screenshots
 
-![Screenshot_20250211-211543](https://github.com/user-attachments/assets/a915fcbb-31e1-454b-a72b-b6ef51ef2658)
-
-![Screenshot_20250211-211609](https://github.com/user-attachments/assets/859dbf89-7b6d-48df-99fa-0d6b16883e2a)
-
-![Screenshot_20250211-211558](https://github.com/user-attachments/assets/0bae5559-58ec-43f2-b8e5-193abac43e2a)
+![Screenshot_20250211-211543](https://github.com/user-attachments/assets/a915fcbb-31e1-454b-a72b-b6ef51ef2658)     ![Screenshot_20250211-211609](https://github.com/user-attachments/assets/859dbf89-7b6d-48df-99fa-0d6b16883e2a)     ![Screenshot_20250211-211558](https://github.com/user-attachments/assets/0bae5559-58ec-43f2-b8e5-193abac43e2a)
 
 
 
